@@ -1,0 +1,27 @@
+.btn-fit {
+	width: fit-content;
+	padding: 0 10px;
+	font-size: 20px;
+}
+
+.popup-top {
+	z-index: 4;
+	position: absolute;
+	display: block;
+	margin-left: -13%;
+	width: 30%;
+	top: 2%;
+}
+
+.center-btn {
+	margin-left: 47%;
+}
+
+.right-btn {
+	margin-left: 20%;
+}
+
+.upper-left {
+	position: absolute;
+	z-index: 5;
+}
